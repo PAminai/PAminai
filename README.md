@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 ## Contact me at:
-<a href="https://www.linkedin.com/in/paminai"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/paminaie"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://sites.google.com/view/pooya-aminai"><img src="https://img.shields.io/badge/-Website-red" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
