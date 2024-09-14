@@ -3,10 +3,10 @@ I am Pouya Aminaie. I am a graduate student at Politecnico di Milano, Italy. Cur
 
 
 My research interests span the following areas: 
-Yield Analysis in Semiconductor Manufacturing
-RFIC Characterization
-High-Frequency Circuit Design
-Statistical Signal Processing
+1. Yield Analysis in Semiconductor Manufacturing
+2. RFIC Characterization
+3. High-Frequency Circuit Design
+4. Statistical Signal Processing
 
 In addition to my technical expertise, I developed soft skills during the internship at ST. I gained valuable experience in a speak-up culture by learning the importance of equity, diversity, and inclusion, which bring more engagement and collaboration to me and my team members. I significantly enhanced my communication, presentation, and problem-solving skills, contributing to a more productive and cohesive work environment while strengthening my ability to foster collaboration and drive results.
 
