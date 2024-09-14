@@ -1,4 +1,4 @@
-## Abour Me:
+## About Me:
 I am Pouya Aminaie. I am a graduate student at Politecnico di Milano, Italy. Currently, I am fully dedicated to my master's thesis as an intern at STMicroelectronics with the RFC Product Engineering team in Agrate, focusing on communication device development.
 
 
