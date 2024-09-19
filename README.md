@@ -8,7 +8,7 @@ My research interests span the following areas:
 3. High-Frequency Circuit Design
 4. Statistical Signal Processing
 
-In addition to my technical expertise, I developed soft skills during the internship at ST. I gained valuable experience in a speak-up culture by learning the importance of equity, diversity, and inclusion, which bring more engagement and collaboration to me and my team members. I significantly enhanced my communication, presentation, and problem-solving skills, contributing to a more productive and cohesive work environment while strengthening my ability to foster collaboration and drive results.
+In addition to my technical expertise, I gained valuable experience in the speak-up culture of ST by learning the importance of equity, diversity, and inclusion, which bring more engagement and collaboration to the all team members. I significantly enhanced my communication, presentation, and problem-solving skills, contributing to a more productive and cohesive work environment while strengthening my ability to foster collaboration and drive results.
 
 
 ## Contact me at:
