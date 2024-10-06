@@ -1,14 +1,16 @@
 ## About Me:
-I am Pouya Aminaie. I am a graduate student at Politecnico di Milano, Italy. Currently, I am fully dedicated to my master's thesis as an intern at STMicroelectronics with the RFC Product Engineering team in Agrate, focusing on communication device development.
+My name is Pouya, which means "very active" in Farsi :) 
+
+Currently, I am working at STMicroelectronics with the RFC Product Engineering team in Agrate, focusing on communication device development.
 
 
 My research interests span the following areas: 
-1. Yield Analysis in Semiconductor Manufacturing
-2. RFIC Characterization
-3. High-Frequency Circuit Design
-4. Statistical Signal Processing
 
-In addition to my technical expertise, I gained valuable experience in the speak-up culture of ST by learning the importance of equity, diversity, and inclusion, which bring more engagement and collaboration to the all team members. I significantly enhanced my communication, presentation, and problem-solving skills, contributing to a more productive and cohesive work environment while strengthening my ability to foster collaboration and drive results.
+1. Yield Analysis in Semiconductor Manufacturing
+2. Statistical Signal Processing from EWS  to FT
+3. RFIC Characterization
+4. Noise Analysis Optical Radars
+5. High-Frequency Circuit Design
 
 
 ## Contact me at:
