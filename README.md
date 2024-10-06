@@ -9,7 +9,7 @@ My research interests span the following areas:
 1. Yield Analysis in Semiconductor Manufacturing
 2. Statistical Signal Processing from EWS  to FT
 3. RFIC Characterization
-4. Noise Analysis Optical Radars
+4. Noise Analysis of Optical Radars
 5. High-Frequency Circuit Design
 
 
